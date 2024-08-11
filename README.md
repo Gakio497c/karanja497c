@@ -1,7 +1,8 @@
-![MasterHead](https://github.com/Karanja497c/project_kwanza/blob/main/Data%20science%20banner.png?raw=true)
+
+![MasterHead](https://as1.ftcdn.net/v2/jpg/04/39/63/56/1000_F_439635674_0mEVTGzc4w82vQQB8AmE9uGRvdeoUvGK.jpg)
 
 <h1 align="center">Hi 👋, I'm Karanja Gakio</h1>
-<h3 align="center">👋 Hi there! I'm a passionate data scientist with a strong interest in machine learning, data analysis, and visualization. My repositories feature a variety of projects, including data-driven insights, predictive modeling, and innovative applications of data science techniques. Explore my work to see how I turn data into actionable knowledge, and feel free to reach out for collaboration or discussion!</h3>
+<h3 align="center">Welcome to my Data Science rabbit hole where  I turn data into actionable knowledge,feel free to reach out for collaboration or discussion!</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/Karanja497c/project_kwanza/blob/main/download%20(21).jpeg?raw=true" />
 
 
