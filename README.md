@@ -1,7 +1,7 @@
 
 ![MasterHead](https://as1.ftcdn.net/v2/jpg/04/39/63/56/1000_F_439635674_0mEVTGzc4w82vQQB8AmE9uGRvdeoUvGK.jpg)
 
-<h1 align="center">Hi 👋, I'm Karanja Gakio</h1>
+<h1 align="center">Hi 👋, I'm Gakio</h1>
 <h3 align="center">Welcome to my Data Science rabbit hole where  I turn data into actionable knowledge,feel free to reach out for collaboration or discussion!</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/Karanja497c/project_kwanza/blob/main/download%20(21).jpeg?raw=true" />
 
